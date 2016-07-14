@@ -13,5 +13,8 @@
     , "email" : "paul.vasich@gmail.com"
     }
   ],
-  "repository" : {}
+  "repository" : {
+      "type": "git",
+      "url": "https://github.com/pavasich/jsx-autocorrect"
+  }
 }
