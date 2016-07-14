@@ -1,5 +1,5 @@
 { "name" : "jsx-autocorrect",
-  "version" : "0.1.6",
+  "version" : "0.1.6a",
   "description" : "A babel plugin that replaces html attributes with their jsx counterparts",
   "main" : "index.js",
   "author" : 

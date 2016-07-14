@@ -27,7 +27,7 @@ with .babelrc:
 ```json
 {
   "presets": ["es2015", "react"],
-  "plugins": ["class-eq-classname"]
+  "plugins": ["jsx-autocorrect"]
 }
 ```
 
