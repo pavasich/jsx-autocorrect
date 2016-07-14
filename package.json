@@ -1,0 +1,17 @@
+{ "name" : "jsx-autocorrect",
+  "version" : "0.1.6",
+  "description" : "A babel plugin that replaces html attributes with their jsx counterparts",
+  "main" : "index.js",
+  "author" : 
+  { "name" : "Paul Vasich"
+  , "email" : "paul.vasich@gmail.com"
+  },
+  "keywords" : ["jsx", "react", "babel", "plugin"],
+  "license" : "ISC",
+  "maintainers" : [
+    { "name" : "pavasich"
+    , "email" : "paul.vasich@gmail.com"
+    }
+  ],
+  "repository" : {}
+}
